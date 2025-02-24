@@ -14,4 +14,6 @@
 
 >test
 
-`#FFFFFF`
+`#FFFFFF`#FFFFFF
+
+`test`#CCCCCC
