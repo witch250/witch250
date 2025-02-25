@@ -1,23 +1,5 @@
-# test test
-
-**test**
-
-*test*
-
-~~test~~
-
-<sub>test</sub>
-
-<sup>test</sup>
-
-<ins>test</ins>
-
->test
-
-`test`
-
-[test](www.tencent.com)
-
-[link to test](#test-test)
+-大二学生，希望能够养成良好的习惯。
+-平时打打游戏，写些字
+-正在学习Java
 
 
